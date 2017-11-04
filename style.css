@@ -1,0 +1,160 @@
+body {
+    font-family: 'Lora';
+}
+header {
+    background: rgba(255, 255, 255, 0.8);
+    width: 100%;
+}
+
+.nav {
+    margin-right: -195px;
+    padding-right: 3px;
+    float: right;
+    font-size: 20px;
+}
+.nav-tabs {
+    border: 0;
+}
+a {
+    color: black;
+    font-family: 'Lora';
+}
+.jumbotron {
+    background-image:url("https://images.pexels.com/photos/205316/pexels-photo-205316.png?w=1260&h=750&auto=compress&cs=tinysrgb");
+    position: relative; 
+    background-size: cover;
+    width: 100%;
+    height: 750px;
+    margin: 0 auto; 
+   
+}/*
+ .intro  { 
+    font-size: 40px;
+    margin-left: 550px;
+    margin-top: 300px;
+}
+*/
+.intro h2 { 
+font-size: 35px;
+margin-left: 325px;
+margin-top: 300px;
+}
+.intro h3 {
+font-size: 30px;
+margin-left: 150px;
+}
+
+.about-section h2, p, h3 {
+    text-align: center;
+    text-decoration: none;
+    color: black;
+}
+.span-line {
+    background: black;
+    height: 3px;
+    width: 40%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.progress-bar {
+    background-color: #666;
+    
+}
+.progress {
+    height: 200px;
+    width: 200px;
+    padding-left: 0;
+    border-radius: 50%;
+    margin-right: 100px;
+    margin-left: 90px;
+  
+}
+.skills-text {
+    text-align: center;
+    font-size: 20px;
+}
+[class*="example"]{
+    min-height:700px;
+}
+.example-1 {
+    background-image: url(https://c1.staticflickr.com/1/629/23700302976_f73ea604b6_k.jpg);
+    background-size: cover;
+}
+.example-2 {
+    background-image: url(https://c1.staticflickr.com/6/5620/32150726482_f5d74e4718_k.jpg);
+    background-size: cover;
+}
+.example-3 {
+    background-image: url(https://c1.staticflickr.com/1/426/32300688275_f1fbff83ea_k.jpg);
+    background-size: cover;
+   
+}
+.example-4 {
+    background-image: url(https://c1.staticflickr.com/5/4487/38131381142_deb8d2eed1_k.jpg);
+    background-size: cover;
+}
+.example-5 {
+    background-image: url(https://c1.staticflickr.com/1/351/32299192495_c165d3cded_k.jpg);
+    background-size: cover;
+}
+.example-6 {
+    background-image: url(https://c1.staticflickr.com/3/2828/33969330551_23e2c226b1_k.jpg);
+    background-size: cover;
+}
+.btn-default {
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    color: white;
+}
+img {
+    padding-top: -20px;
+    width: 1000px;
+    height: 800px;
+}
+/*.copy {
+    color: white;
+    background-color: #666;
+    text-align: center;
+}*/
+.copy {
+    color:black;
+    text-align: center;
+    background-color: white;
+    font-weight: bold;
+}
+.footer {
+    margin-top: 20px;
+    /*background-color: #545454;*/
+}
+.footer-text h2 {
+    color: black;
+}
+
+.icon-btn  {
+    height: 105px;
+    width: 105px;
+    border: 0;
+    border-color: #FFF;
+    border-radius: 50%;
+    margin: 0;
+    cursor: pointer; 
+    font-size: 60px;
+    color: black;
+    background-color: white;
+    
+}
+.fa {
+    color: black;
+    background-color: white; 
+}
+.mail {
+    padding-top: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+.fa-linkedin {
+    margin-left: 230px;
+}
+.fa-github {
+    margin-right: -70px;
+}
