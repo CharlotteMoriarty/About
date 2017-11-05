@@ -45,16 +45,15 @@
     <section>
 
         <div class="jumbotron jumbotron-fluid">
-            <div class="container-fluid intro">
+            <div class="container col-md-12 col-sm-12 intro">
                 <h1>Karolina Kiełtyka</h1>
-                    <p>junior 
-                    Front-end Developer</p>
+                <p>junior Front-end Developer</p>
             </div>
         </div>
     </section>
     <section class="about-section">
         <div class="container" id="about">
-            <h2><span class="span-line"></span>About<span class="span-line"></span></h2>
+            <h2><span class="span-line"></span>About<span class="span-line-right"></span></h2>
             <h3>Lorem</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
             <h3>Lorem</h3>
@@ -65,9 +64,9 @@
     </section>
     <section class="about-section">
         <div class="container" id="skills">
-            <h2><span class="span-line"></span>Skills<span class="span-line"></span></h2>
+            <h2><span class="span-line"></span>Skills<span class="span-line-right"></span></h2>
         </div>
-            <div class="container">  
+        <div class="container">
             <div class="row">
                 <div class="col-md-4 col-sm-12 progress">
                     <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100" style="width: 30%">
@@ -87,16 +86,18 @@
                         <H3 class="skills-text">JS</H3>
                     </div>
                 </div>
-            </div>        
             </div>
-             
+        </div>
+
     </section>
     <section class="about-section">
         <div class="container" id="hobby">
-            <h2><span class="span-line"></span>Hobby<span class="span-line"></span></h2>
-         
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p> 
-        </div> 
+           <div class="row">
+            <h2><span class="span-line"></span>Hobby<span class="span-line-right"></span></h2>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        </div>
+        </div>
         <div class="container">
             <div id="myCarousel" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -130,32 +131,27 @@
                     <span class="sr-only">Next</span>
                 </a>
             </div>
-        </div>  
+        </div>
     </section>
     <section class="about-section footer">
-        <div class="container footer-text" id="contact">
-            <h2><span class="span-line"></span>Contact<span class="span-line"></span></h2>
-            <div class="container col-md-12 col-sm-12">
-               <div class="row">
-                   <div class="col-md-4 col-sm-12">
-                       <button class="icon-btn linkedin">
-                           <a href="#">
-                               <i class="fa fa-linkedin"></i>
-                           </a>
-                       </button>
-                   </div>
-                   <div class="col-md-4 col-sm-12 mail">
-                   example(at)example.pl
-                   </div>
-                   <div class="col-md-4 col-sm-12">
-                       <button class="icon-btn github">
-                           <a href="#">
-                           <i class="fa fa-github"></i>
-                           </a>
-                       </button>
-                   </div>
-               </div>
-                
+        <div class="container col-md-12 col-sm-12 footer-text" id="contact">
+            <div class="row">
+                <h2><span class="span-line"></span>Contact me<span class="span-line-right"></span></h2>               
+                <div class="col-md-4 col-sm-12">
+                    <a class="btn btn-block btn-social btn-linkedin">
+                    <span class="fa fa-linkedin fa-5x"></span>
+                </a>
+                </div>
+                <div class="col-md-4 col-sm-12 mail">
+                    <span> example(at)example.pl</span>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <a class="btn btn-block btn-social btn-github">
+                    <span class="fa fa-github fa-5x"></span>
+                </a>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                </div>
             </div>
         </div>
         <div class="copy">
@@ -163,7 +159,7 @@
                 © 2017 Copyright: Karolina Kiełtyka
             </div>
         </div>
-    </section>           
+    </section>
     <script>
         $(document).ready(function() {});
 
