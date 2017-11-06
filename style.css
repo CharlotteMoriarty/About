@@ -103,7 +103,7 @@ a {
     background-image: url(https://c1.staticflickr.com/3/2828/33969330551_23e2c226b1_k.jpg);
     background-size: cover;
 }
-.btn-default {
+/*.btn-default {
     background-color: #337ab7;
     border-color: #2e6da4;
     color: white;
