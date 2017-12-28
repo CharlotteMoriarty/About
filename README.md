@@ -7,25 +7,22 @@ My first single page project to know me better.
 
 Few words about me:
 
--HTML (I know)
+>HTML (I know)
 
--CSS (I can quote text vertically)
+>CSS (I can quote text vertically)
 
--JS (I'm learning but I can do few things)
+>JS (I'm learning but I can do few things)
 
--ReactJs (I'm learning)
-
-
-
+>ReactJs (I'm learning)
 
 
 I would love to work with:
 
- -ReactJs (I want to learn)
+ >ReactJs (I want to learn)
 
- -JS (I want to improve it)
+ >JS (I want to improve it)
 
- -Sass (I want to practice it)
+ >Sass (I want to practice it)
  
  
 
