@@ -1,6 +1,6 @@
 # About
 
-My first single page project to know me better.
+######h6 My first single page project to know me better.
 
 
 Few words about me:
@@ -14,6 +14,7 @@ Few words about me:
 -ReactJs (I'm learning)
 
 
+
 I would love to work with:
 
 -ReactJs (I want to learn)
@@ -21,6 +22,7 @@ I would love to work with:
 -JS (I want to improve it)
 
 -Sass (I want to practice it)
+
 
 If you are looking for a reliable and loyal employee with learning enthusiasm and willing to take on every challenge feel free to contact me : 
 
