@@ -3,6 +3,8 @@
 My first single page project to know me better.
 
 
+
+
 Few words about me:
 
 -HTML (I know)
@@ -15,6 +17,8 @@ Few words about me:
 
 
 
+
+
 I would love to work with:
 
  -ReactJs (I want to learn)
@@ -22,6 +26,8 @@ I would love to work with:
  -JS (I want to improve it)
 
  -Sass (I want to practice it)
+ 
+ 
 
 
  If you are looking for a reliable and loyal employee with learning enthusiasm and willing to take on every challenge feel free to contact me : 
