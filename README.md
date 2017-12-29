@@ -9,7 +9,7 @@ Few words about me:
 
 >HTML (I know)
 >
->CSS (I can quote text vertically)
+>CSS (I can center text vertically)
 >
 >JS (I'm learning but I can do few things)
 >
